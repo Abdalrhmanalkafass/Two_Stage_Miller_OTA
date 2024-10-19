@@ -1,0 +1,22 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Aug 24 16:13:09 2024 
+Best design point: 1
+Design specs: 
+	lab9_iti:open_loop:1	corner	Nominal - 
+	A0		Error	No
+	VF("/vout")		Error	No
+	VDC("/vout")		1.798
+Design parameters: 
+	cl		5p
+	vid		0
+	vidac		1
+	vincm		600m
+	vincmac		0
+	w		1u
+
+Interactive.28
+Number of points completed: 20
+Number of simulation errors: 40
+Interactive.28 completed. 
+Current time: Sat Aug 24 16:13:38 2024 

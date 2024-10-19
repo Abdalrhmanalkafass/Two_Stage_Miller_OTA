@@ -1,0 +1,23 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Aug 27 14:17:39 2024 
+Best design point: 1
+Design specs: 
+	miniproject1:closed_loop:1	corner	Nominal - 
+	phase margin		69.98
+	rise time		4.574n
+	A0		2.351k
+	A0_db		67.42
+	BW		2.975k
+	fu		6.635M
+	GBW		6.993M
+	A0cl		999.7m
+	fucl		Error	No
+	bandwidth(VF("/Vout") 3 "low")		9.761M
+Design parameters: 
+
+Interactive.145
+Number of points completed: 1
+Number of simulation errors: 1
+Interactive.145 completed. 
+Current time: Tue Aug 27 14:17:41 2024 

@@ -1,0 +1,25 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Aug 27 14:45:26 2024 
+Best design point: 1
+Design specs: 
+	miniproject1:DC_CLOSEDLOOP_AC_OPENLOOP:1	corner	Nominal - 
+	A0		318.6m
+	A0_db		-9.934
+	BW		2.975k
+	fu		Error	No
+	GBW		947.8
+	cmrr		Error	No
+	cmrr_dc		Error	No
+Design parameters: 
+	vincm		600m
+	vincm_ac		1
+	vind		0
+	vind_ac		0
+	vdc		600m
+
+Interactive.31
+Number of points completed: 1
+Number of simulation errors: 3
+Interactive.31 completed. 
+Current time: Tue Aug 27 14:45:28 2024 
